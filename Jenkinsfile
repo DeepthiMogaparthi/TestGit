@@ -7,5 +7,4 @@ stage('Build') {
    sh 'java -version'
    sh 'mvn --version'
    }
-   
-}
+ }
